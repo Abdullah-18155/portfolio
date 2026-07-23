@@ -1,7 +1,7 @@
 # 👋 Abdullah Abid — Developer Portfolio
 
 <p align="center">
-  <img src="src/assets/profile.png" alt="Abdullah Abid" width="150">
+  <img src="src/assets/profile.png" alt="Abdullah Abid" width="200">
 </p>
 
 <h1 align="center">Abdullah Abid</h1>
@@ -23,7 +23,8 @@ Frontend Developer passionate about building modern, responsive and user-friendl
 ## 🌐 Live Demo
 
 **Portfolio:**  
-👉 *(Add your deployed portfolio link here)*
+https://my-portfolio-zeta-flame-autseu09e9.vercel.app/
+
 
 ---
 
