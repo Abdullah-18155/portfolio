@@ -1,7 +1,7 @@
 # 👋 Abdullah Abid — Developer Portfolio
 
 <p align="center">
-  <img src="public/profile.png" alt="Abdullah Abid" width="150">
+  <img src="src/assets/profile.png" alt="Abdullah Abid" width="150">
 </p>
 
 <h1 align="center">Abdullah Abid</h1>
@@ -19,7 +19,7 @@ Frontend Developer passionate about building modern, responsive and user-friendl
 </p>
 
 ---
-
+ 
 ## 🌐 Live Demo
 
 **Portfolio:**  
@@ -102,11 +102,9 @@ npm run dev
 
 # 📸 Preview
 
-```html
 <p align="center">
   <img src="public/screenshots/home.png" width="900">
 </p>
-```
 
 ---
 
