@@ -1,3 +1,8 @@
+import taskflow from '../assets/projects-screenshots/taskflow.png';
+import skycast from '../assets/projects-screenshots/skycast.png';
+import netflix from '../assets/projects-screenshots/netflix.png';
+import ecommerece from '../assets/projects-screenshots/e-commerece.png';
+
 export const projects = [
   {
     name: 'TaskFlow',
@@ -11,7 +16,7 @@ export const projects = [
       from: '#3355FF',
       to: '#7C8CFF',
     },
-    src: 'src/assets/projects-screenshots/taskflow.png',
+    image: taskflow,
   },
   {
     name: 'SkyCast',
@@ -25,7 +30,7 @@ export const projects = [
       from: '#0EA5C0',
       to: '#3355FF',
     },
-    src: 'src/assets/projects-screenshots/skycast.png',
+    image: skycast,
   },
   {
     name: 'Netflix Clone',
@@ -39,7 +44,7 @@ export const projects = [
       from: '#E50914',
       to: '#0B0F19',
     },
-    src: 'src/assets/projects-screenshots/netflix.png',
+    image: netflix,
   },
   {
     name: 'ShopSphere',
@@ -53,6 +58,6 @@ export const projects = [
       from: '#00C896',
       to: '#3355FF',
     },
-    src: 'src/assets/projects-screenshots/e-commerece.png',
+    image: ecommerece,
   },
 ]

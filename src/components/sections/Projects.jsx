@@ -17,7 +17,7 @@ function ProjectPreview({ project }) {
       </div>
       <div className='overflow-y-auto no-scrollbar '>
 
-        <img src={project.src} alt="" className='p-1 object-full rounded-2xl' />
+        <img src={project.image} alt="" className='p-1 object-full rounded-2xl' />
       </div>
     </div>
   )
