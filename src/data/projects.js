@@ -11,7 +11,7 @@ export const projects = [
       from: '#3355FF',
       to: '#7C8CFF',
     },
-    src: 'public/projects screenshots/taskflow.png',
+    src: 'src/assets/projects-screenshots/taskflow.png',
   },
   {
     name: 'SkyCast',
@@ -25,7 +25,7 @@ export const projects = [
       from: '#0EA5C0',
       to: '#3355FF',
     },
-    src: 'public/projects screenshots/skycast.png',
+    src: 'src/assets/projects-screenshots/skycast.png',
   },
   {
     name: 'Netflix Clone',
@@ -39,7 +39,7 @@ export const projects = [
       from: '#E50914',
       to: '#0B0F19',
     },
-    src: 'public/projects screenshots/netflix.png',
+    src: 'src/assets/projects-screenshots/netflix.png',
   },
   {
     name: 'ShopSphere',
@@ -53,6 +53,6 @@ export const projects = [
       from: '#00C896',
       to: '#3355FF',
     },
-    src: 'public/projects screenshots/e-commerece.png',
+    src: 'src/assets/projects-screenshots/e-commerece.png',
   },
 ]
